@@ -1,1 +1,0 @@
-import{d as s,_ as e,c as n,o as t,a}from"./index-q32lctN4.js";const r=s({name:"HypeBotDashboard"}),d={class:"dashboard"};function c(p,o,_,l,i,m){return t(),n("div",d,[...o[0]||(o[0]=[a("h2",null,"Dashboard",-1),a("p",null,"Comming soon...",-1)])])}const u=e(r,[["render",c],["__scopeId","data-v-b3289c41"]]);export{u as default};

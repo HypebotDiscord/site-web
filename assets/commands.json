@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "Coonfiguration",
+      "commands": [
+        {
+          "name": "config",
+          "description": "Configurez un module du bot",
+          "usage": "/config [module]"
+        }
+      ]
+    },
+    {
+      "name": "Modération",
+      "commands": [
+        {
+          "name": "ban",
+          "description": "Bannir un utilisateur du serveur",
+          "usage": "/ban @utilisateur [raison]"
+        }
+      ]
+    }
+  ]
+}
